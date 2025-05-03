@@ -13,8 +13,22 @@ body {
   p {
     color: #e91e63;
   }
-  
 
+  .start-button {
+    display: inline-block;
+    padding: 20px 44px;
+    font-size: 20px;
+    font-family: "Itim", cursive;
+    background-color: #ff69b4;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 12px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
 /*itim fomt*/
 .itim-regular { 
     font-family: "Itim", cursive;
